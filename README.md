@@ -4,7 +4,7 @@
 
 <h4><p align="center"> SONIC ROBOT </p></h4>
 
-<p align="center">Skyzu Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Sonic Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.meSonicxmngbot"> <img src="https://img.shields.io/badge/Sonic-Robot-blue?&logo=telegram" alt="Skyzu on Telegram" /> </a><br>
